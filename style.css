@@ -1,0 +1,92 @@
+*{
+    background-color: #fff2d7;
+  }
+  body>div{
+    background-color: aliceblue;
+    width: 40%;
+    margin-left:300px;
+    margin-top: 20px;
+    line-height: 100%;
+    border-radius: 5%;
+    padding: 30px;
+  }
+  /*Introduction and picture*/
+  body>div>.picture{
+    width: 100%;
+    background-color: aliceblue;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .introduction{
+    background-color: aliceblue;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*-------------------------------------------------------*/
+  /*Preparation*/
+  div>.preparation>div{
+    background-color:rgb(250, 225, 245);
+    border-radius: 10%;
+  }
+  div>.preparation div>li{
+    border-radius: 10%;
+    background-color:rgb(250, 225, 245);
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+  }
+  /*------------------------------------------------------*/
+  /*.Ingredients*/
+  div>.Ingredients>div{
+    background-color:aliceblue;
+  }
+  div>.Ingredients div>li{
+    background-color:aliceblue;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  /*------------------------------------------------------*/
+  /*Instrucion*/
+  div>.Instructions>div{
+    background-color:aliceblue;
+  }
+  div>.Instructions>div>ol{
+    background-color:aliceblue;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+  } 
+  li{
+    background-color: aliceblue;
+  }
+  /*Nutrition*/
+  /*-------------------------------------------------------*/
+  div>.Nutrition>div{
+    font-size: small;
+    background-color: aliceblue;
+  }
+  .nutritional{
+    float: left;
+  }
+  .values{
+    padding-left: 40%;
+    background-color: aliceblue;
+    color: brown;
+  }
+  .values1{
+    padding-left: 44%;
+    background-color: aliceblue;
+    color: brown;
+  }
+  .values2{
+    padding-left: 42%;
+    background-color: aliceblue;
+    color: brown;
+  }
+  .values3{
+    padding-left: 46%;
+    background-color:aliceblue;
+    color: brown;
+  }
+  .attribution{
+    background-color: aliceblue;
+  }
